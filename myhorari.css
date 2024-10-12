@@ -1,0 +1,67 @@
+h1 {
+    color: lightseagreen;
+    text-align: center;
+    font-weight: 1000;
+}
+
+caption {
+    color : midnightblue;
+    font-size: 25px;
+}
+
+table {
+    margin: auto;
+    width : 100px;  
+}
+
+table,th,td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding : 12px;
+    
+}
+
+th {
+    background-color: lightskyblue;
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+
+.LMSGI {
+    background-color: chartreuse;
+}
+.P {
+    background-color: aquamarine;
+}
+.BD{
+ background-color :coral;   
+}
+.SI {
+    background-color :lightpink;
+}
+.AN {
+    background-color :lightgreen;
+}
+.IPOI {
+    background-color: cornflowerblue;
+}
+.DIW {
+    background-color: lightsteelblue;
+}
+.TUT{
+    background-color: gold;
+}
+.Hora {
+    background-color: mediumturquoise;
+}
+.time {
+    background-color: lightyellow;
+}
+.pati {
+    background-color: lightyellow;
+}
+.day {
+    padding: 20px;
+}

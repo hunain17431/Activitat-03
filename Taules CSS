@@ -1,0 +1,42 @@
+<!Doctype html>
+<html>
+    <head>
+        <title> Noticia FUTBOL CLUB ACCIÓ</title>
+    </head>
+    <body>
+
+<h1 style="color:brown;text-align:center;"> NOTÍCIA ASCENSO ACCIÓ </h1>
+<h2 style="background-color:rgb(164, 220, 232);">Ascenso inesperado de 5 equipos de acció a divisiones superiores en futbol sala.</h2>
+<p>Los 5 equipos de Acció de categoria benjamin,infantil,cadete,juvenil y senior fueron los equipos afortunados que recibieron el ascenso por haberse clasificado como primeros en sus ligas .</p>
+<p>Este ascenso fue gracias a la impresionante manera que jugaron los jugadores de los equipos de acció. Los nombres más destacados y con más goles fueron Hunain (juvenil), Nikolay (infantil), Alex (senior), Alejandro (benjamin), Franchesco (cadete). Y no podemos olviadrnos de la directiva que saco la mejor version de los equipos de acció donde destacaron Carlos (coordinador), Paco (Presidente) , Darko (entrenador) , Adri (entrenador). Acció con estos 5 ascenso ha conseguido ser el club más destacable del año 2007 ya que es el equipo con mas equipos ascendidos.</p>
+<p>Acció ha ganado el premio del mejor equipo de 2007 junto al premio de 10000 euros por ser el equipo mas goleador de todas las ligas de Barcelona. Esto ha dado un impulso positivo a acció en diferentes ambientes como en el mercado de fichajes, en la reputación y en la motivación para ganar más. </p>
+
+<img src="fran.png">
+
+<h3>Fonts de la notícia</h3>
+1.
+       <a href="https://www.lnfs.es/noticias" 
+    target="_blank"> Liga nacional de futbol sala</a>
+
+
+<p>2. <a href="https://www.marca.com/futbol/futbol-sala.html" 
+target="_blank"> Marca.com futbol sala</a>
+
+<p>3. <a href="https://as.com/noticias/futbol-sala/" 
+    target="_blank"> Diario.as</a>
+
+    <p>4. <a href="horari.html" 
+        target="_blank"> Horari.com</a>
+
+<h4>Altres notícies interesants</h4>    
+<p><strong>·</strong> El Barça gana vente mil euros gracias a un superjugador del levante.</p>
+<p><strong>·</strong> Los Españoles actuan contra el injusto gobierno de lionel Colau.</p>
+<p><strong>·</strong> EL gobierno decide eliminar la ley de cita prévia.</p>
+
+<h4>Glossario</h4>
+<p>Reputación</p>
+<p> - Prestigio o estima en que son tenidos alguien o algo.</p>
+<p>Ascenso</p>
+<p> -  Promoción a mayor dignidad o empleo.</p>
+
+</html>
