@@ -1,24 +1,29 @@
 h1 {
     color: lightseagreen;
-    text-align: center;
+    text-align: center ;
     font-weight: 1000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 caption {
     color : midnightblue;
     font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 table {
     margin: auto;
-    width : 100px;  
+    width : 100px;
+    text-align: center;  
 }
 
 table,th,td {
     border: 1px solid #000;
     border-collapse: collapse;
     padding : 12px;
-    
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 th {
@@ -55,13 +60,20 @@ td {
 }
 .Hora {
     background-color: mediumturquoise;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
 }
 .time {
     background-color: lightyellow;
 }
 .pati {
     background-color: lightyellow;
+    font-size: 20px;
+    padding: 15px;
 }
 .day {
-    padding: 20px;
+    padding: 30px;
+    font-size: 25px;
+    width: 180px;
 }
